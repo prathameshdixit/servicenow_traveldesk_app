@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="brock lesnar" max_length="40" name="x_366618_travel_de_brock_lesnar" type="collection">
+        <element label="height" max_length="40" name="height" type="string"/>
+        <element label="weight" max_length="40" name="weight" type="string"/>
+    </element>
+</database>
